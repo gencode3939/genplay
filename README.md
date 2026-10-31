@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="![genplay-app-logo-1793455346872.avif](https://user49814.na.imgto.link/public/20261031/7e67c563038d49bcf3c08957-genplay-app-logo-1793455346872.avif)" alt="GenPlay Logo" width="160" style="border-radius: 28px;" />
+  <img src="https://user49814.na.imgto.link/public/20261031/7e67c563038d49bcf3c08957-genplay-app-logo-1793455346872.avif" alt="GenPlay Logo" width="160" style="border-radius: 28px;" />
 </p>
 
 <h1 align="center">GenPlay — Next-Gen Home Media Server &amp; Instant Beam Player</h1>
