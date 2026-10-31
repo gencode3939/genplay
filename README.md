@@ -1,6 +1,6 @@
-[README (1).md](https://github.com/user-attachments/files/34218646/README.1.md)
+
 <p align="center">
-  <img src="https://tmpfiles.org/dl/wOAxTOzZzt44/genplay_app_logo_1793455346872.jpg" alt="GenPlay Logo" width="160" style="border-radius: 28px;" />
+  <img src="![genplay-app-logo-1793455346872.avif](https://user49814.na.imgto.link/public/20261031/7e67c563038d49bcf3c08957-genplay-app-logo-1793455346872.avif)" alt="GenPlay Logo" width="160" style="border-radius: 28px;" />
 </p>
 
 <h1 align="center">GenPlay — Next-Gen Home Media Server &amp; Instant Beam Player</h1>
@@ -26,21 +26,6 @@
 </p>
 
 ---
-
-## 📸 UI Screenshots
-
-<p align="center">
-  <b>Android Mobile Experience &amp; Glassmorphic Navigation</b><br/>
-  <img src="https://tmpfiles.org/dl/wvASTIzwzr8P/genplay_mobile_ui_1793455361337.jpg" alt="GenPlay Mobile UI" width="92%" style="border-radius: 16px; margin-top: 8px; margin-bottom: 20px;" />
-</p>
-
-<p align="center">
-  <b>Android TV Spatial Glass Interface &amp; Glowing DPAD Remote Focus Ring</b><br/>
-  <img src="https://tmpfiles.org/dl/weAQTkzai4AV/genplay_tv_ui_1793455374772.jpg" alt="GenPlay Android TV UI" width="92%" style="border-radius: 16px; margin-top: 8px;" />
-</p>
-
----
-
 ## 🔥 Key Features
 
 ### 📡 Gen Air Instant Beam (Cast to TV / Web)
